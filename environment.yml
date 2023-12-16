@@ -1,0 +1,11 @@
+name: scaling_env
+channels:
+  - defaults
+  - conda-forge
+  - ostrokach-forge
+  - pkgw-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
